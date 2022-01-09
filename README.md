@@ -1,2 +1,3 @@
-# airbnb-clone
-Learning Django by creating an AirBnb clone
+# AirBnb Clone
+
+Cloning AirBnb with Python, Django, TailwindCSS, and more... 🐍
