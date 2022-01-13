@@ -35,3 +35,9 @@ To create a superuser...
 ```python
 python manage.py createsuperuser
 ```
+
+## Database schema
+
+### Users
+
+### Rooms
