@@ -8,33 +8,40 @@ Remember to run all of the following commands inside the `pipenv shell` virtual 
 
 To run the Django server...
 
-```python
+```bash
 python manage.py runserver
 ```
 
 To run database migrations...
 
-```python
+```bash
 python manage.py migrate
 ```
 
 To make database migrations...
 
-```python
+```bash
 python manage.py makemigrations
 ```
 
 To create Django applications...
 
-```python
+```bash
 django-admin startapp <app-name>
 ```
 
 To create a superuser...
 
-```python
+`bash
 python manage.py createsuperuser
-```
+
+````
+
+To access the Django shell...
+
+```bash
+python manage.py shell
+````
 
 ## Database schema
 
